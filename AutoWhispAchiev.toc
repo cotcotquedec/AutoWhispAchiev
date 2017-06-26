@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: AutoWhispAchiev
+## Version: 0.4
+## Notes: Whisp Achiev during group apply
+## Author: cøtcotquedec-Hyjal EU
+
+AutoWhispAchiev.lua
