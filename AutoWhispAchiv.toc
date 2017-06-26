@@ -1,4 +1,4 @@
-## Interface: 72500
+## Interface: 70200
 ## Title: AutoWhispAchiv
 ## Version: 0.1
 ## Notes: Whisp Achiv during group request
