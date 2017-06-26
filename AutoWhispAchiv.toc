@@ -1,0 +1,7 @@
+## Interface: 72500
+## Title: AutoWhispAchiv
+## Version: 0.1
+## Notes: Whisp Achiv during group request
+## Author: cøtcotquedec-Hyjal EU
+
+AutoWhispAchiv.lua
