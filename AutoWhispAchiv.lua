@@ -53,7 +53,7 @@ function RegisteredEvents:LFG_LIST_APPLICATION_STATUS_UPDATED(event, application
       for achID in string.gmatch(achievementIDs[activity], '([^ ]+)') do
         local _,_,_,completed = GetAchievementInfo(tonumber(achID))
         if completed then
-          SendChatMessage(GetAchievementLink(tonumber(achID)), "WHISPER", nil, leader)
+          SendChatMessage(GetAchievementLink(tonumber(achID)) .. " |cA4A4A400 whisp by AutoWhispAchiv", "WHISPER", nil, leader)
           break
         end
       end
